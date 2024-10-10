@@ -1,6 +1,6 @@
 # PRODIGY_SD_02
 
-A simple guessing game
+A simple guessing game.
 
 ## Guessing game
 
